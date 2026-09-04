@@ -1,0 +1,17 @@
+Company Brand Capitalization Guidelines
+
+Always write company and product names using official capitalization.
+
+Correct:
+- OpenAI
+- ChatGPT
+- GitHub
+- LinkedIn
+- YouTube
+
+Incorrect:
+- openai
+- chatgpt
+- github
+- linkedin
+- youtube
